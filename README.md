@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iMythms
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning HTML, CSS, JS & Python
+- 🌱 I’m currently learning HTML, CSS, JS, REACT JS
 
 <!---
 iMythms/iMythms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
