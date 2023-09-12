@@ -19,7 +19,7 @@ I'm not just another Computer Engineering student at Ahlia University—I'm on a
 
 Here are some shiny certificates I've collected along the way:
 
-- ChatGPT Engineering
+- ChatGPT Prompt Engineering
 - Java Technical Interviews
 - Robotics & 3D Printing
 - Cyber Security Hackathons
@@ -32,7 +32,7 @@ Here are some shiny certificates I've collected along the way:
 🛠️ My Tech Toolbox 🛠️
 
 - Programming & Web Dev Tools
-- AI Gizmos
+- AI Tools
 - Design Gadgets
 - 3D Modeling & Robotics
 - Productivity Boosters
