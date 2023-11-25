@@ -24,7 +24,6 @@ Here are some shiny certificates I've collected along the way:
 - Robotics & 3D Printing
 - Cyber Security Hackathons
 - Photoshop Basics
-- English Language Development
 - Natural Language Processing with Python (Currently Studying)
 
 ---
